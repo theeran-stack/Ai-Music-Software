@@ -1,0 +1,41 @@
+{
+  "name": "Obsidian Silver",
+  "id": "obsidian_silver",
+  "type": "dark",
+  "colors": {
+    "background_main": "#101114",
+    "background_sidebar": "#151619",
+    "background_card": "#1B1D21",
+    "background_elevated": "#22252A",
+    "background_input": "#181A1E",
+    "background_hover": "#26292F",
+    "border_subtle": "#25282F",
+    "border_default": "#30333A",
+    "border_focus": "#C5C9D0",
+    "text_primary": "#F5F5F5",
+    "text_secondary": "#969BA3",
+    "text_muted": "#60646D",
+    "accent_silver": "#C5C9D0",
+    "accent_hover": "#D8DCE3",
+    "accent_active": "#B0B4BC",
+    "accent_glow": "rgba(197, 201, 208, 0.15)",
+    "success": "#48B58A",
+    "warning": "#E5AA57",
+    "error": "#E16D75",
+    "player_bg": "#141518",
+    "waveform_wave": "#444952",
+    "waveform_progress": "#C5C9D0"
+  },
+  "metrics": {
+    "border_radius_sm": 6,
+    "border_radius_md": 10,
+    "border_radius_lg": 14,
+    "border_radius_card": 12,
+    "font_size_sm": 11,
+    "font_size_normal": 13,
+    "font_size_md": 15,
+    "font_size_lg": 18,
+    "font_size_xl": 22,
+    "font_size_title": 26
+  }
+}

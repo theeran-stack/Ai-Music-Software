@@ -1,0 +1,50 @@
+# Python & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+.pytest_cache/
+.mypy_cache/
+venv/
+.venv/
+env/
+.env
+.env.*
+!.env.example
+
+# Build Artifacts & Packaging
+build/
+dist/
+release/
+*.spec.bak
+
+# AI Model Caches & Pretrained Checkpoints
+models/huggingface/
+models/torch_hub/
+*.safetensors
+*.pth
+*.pt
+*.onnx
+
+# Runtime User Data, Cache, Logs, and Local SQLite
+data/cache/
+data/logs/
+data/screenshots/
+data/separated/
+data/settings/
+data/test_run/
+data/*.db
+data/*.sqlite*
+
+# Logs & Diagnostics
+*.log
+install.log
+install_currentuser.log
+install_test.log
+
+# Operating System & Temporary Files
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+desktop.ini

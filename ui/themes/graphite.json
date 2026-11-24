@@ -1,0 +1,41 @@
+{
+  "name": "Graphite",
+  "id": "graphite",
+  "type": "dark",
+  "colors": {
+    "background_main": "#151719",
+    "background_sidebar": "#1B1D20",
+    "background_card": "#212428",
+    "background_elevated": "#282C31",
+    "background_input": "#1E2024",
+    "background_hover": "#2F333A",
+    "border_subtle": "#2B2E35",
+    "border_default": "#373C44",
+    "border_focus": "#9AA0A6",
+    "text_primary": "#E8EAED",
+    "text_secondary": "#9AA0A6",
+    "text_muted": "#5F6368",
+    "accent_silver": "#BDC1C6",
+    "accent_hover": "#DADCE0",
+    "accent_active": "#9AA0A6",
+    "accent_glow": "rgba(189, 193, 198, 0.15)",
+    "success": "#34A853",
+    "warning": "#FBBC04",
+    "error": "#EA4335",
+    "player_bg": "#191B1E",
+    "waveform_wave": "#494E57",
+    "waveform_progress": "#BDC1C6"
+  },
+  "metrics": {
+    "border_radius_sm": 6,
+    "border_radius_md": 10,
+    "border_radius_lg": 14,
+    "border_radius_card": 12,
+    "font_size_sm": 11,
+    "font_size_normal": 13,
+    "font_size_md": 15,
+    "font_size_lg": 18,
+    "font_size_xl": 22,
+    "font_size_title": 26
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Platinum Light",
+  "id": "platinum_light",
+  "type": "light",
+  "colors": {
+    "background_main": "#F0F2F5",
+    "background_sidebar": "#E4E7EB",
+    "background_card": "#FFFFFF",
+    "background_elevated": "#F8F9FA",
+    "background_input": "#FFFFFF",
+    "background_hover": "#E9ECEF",
+    "border_subtle": "#DEE2E6",
+    "border_default": "#CED4DA",
+    "border_focus": "#495057",
+    "text_primary": "#1A1D20",
+    "text_secondary": "#5A626A",
+    "text_muted": "#868E96",
+    "accent_silver": "#495057",
+    "accent_hover": "#212529",
+    "accent_active": "#6C757D",
+    "accent_glow": "rgba(73, 80, 87, 0.12)",
+    "success": "#28A745",
+    "warning": "#D39E00",
+    "error": "#DC3545",
+    "player_bg": "#E9ECEF",
+    "waveform_wave": "#ADB5BD",
+    "waveform_progress": "#343A40"
+  },
+  "metrics": {
+    "border_radius_sm": 6,
+    "border_radius_md": 10,
+    "border_radius_lg": 14,
+    "border_radius_card": 12,
+    "font_size_sm": 11,
+    "font_size_normal": 13,
+    "font_size_md": 15,
+    "font_size_lg": 18,
+    "font_size_xl": 22,
+    "font_size_title": 26
+  }
+}
